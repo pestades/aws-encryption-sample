@@ -23,6 +23,11 @@ Otherwise with gradle you can run the gradlew wrapper and all dependencies will 
 
 ## Basic Configuration
 
+
+* [Environment Set-up](setenv.md)
+
+![Open Key Management Service on AWS Console](/res/AWSConsoleKMS.png)
+
 You need to set up your AWS security credentials before the sample code is able
 to connect to AWS. You can do this by creating a file named "credentials" at ~/.aws/ 
 (C:\Users\USER_NAME\.aws\ for Windows users) and saving the following lines in the file:

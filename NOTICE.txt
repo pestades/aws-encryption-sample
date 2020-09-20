@@ -1,0 +1,2 @@
+aws-encryption-sample
+Copyright 2020 Pablo Estades. All Rights Reserved. 

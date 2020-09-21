@@ -24,6 +24,7 @@ public class AWSEncryptSample {
 
 	// TODO: explore Master and Data Key usage
 	// TODO: create screenshots from AWS console to create users, policies, and key
+	// TODO: maven run
 	// and paste on README
 	public static void main(String[] args) {
 
